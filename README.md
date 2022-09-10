@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&&&color=timeGradient&text=Welcome!)
+![header](https://capsule-render.vercel.app/api?type=rounded&&&color=timeGradient&animation=twinkling&text=Welcome!)
 
 ### Hi there 👋
 
