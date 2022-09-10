@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?text=Welcom!)
+![header](https://capsule-render.vercel.app/api?text=Welcome!)
